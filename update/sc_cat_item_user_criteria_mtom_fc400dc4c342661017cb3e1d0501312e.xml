@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Submit my custom device">de9b74c8c302661017cb3e1d050131d5</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-05 11:36:20</sys_created_on>
+        <sys_id>fc400dc4c342661017cb3e1d0501312e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit my custom device.IT Support</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fc400dc4c342661017cb3e1d0501312e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-05 11:36:20</sys_updated_on>
+        <user_criteria display_value="IT Support">e921ff13c3f1a21017cb3e1d0501315a</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
